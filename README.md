@@ -14,6 +14,7 @@ If you want to use Mathex in your project, here is a list of existing implementa
 
 * [Mathex for C/C++](https://github.com/capsey/mathex-c)
 * [Mathex for C++](https://github.com/capsey/mathex-cpp)
+* [Mathex for Python](https://github.com/capsey/mathex-py)
 
 ## Read the specification
 
